@@ -54,17 +54,17 @@ If we start a project, we need to use some commands.
 
 `$ git status` This is probably the command that we will use most when we are working, because, this command displays the status of thw working directory, showing us created, deleted or modified files
 
-``This command will be used for staging your files, ready to commit them.
+`$ git add {file}` This command will be used for staging your files, ready to commit them.
 
-``It shows changes between our working directory and the staging area.
+`$ git diff {file}` It shows changes between our working directory and the staging area.
 
-``It shows changes between the staging area and the local repository.
+`$ git diff --staged {file}` It shows changes between the staging area and the local repository.
 
-``This cheat will make our repository return to a previous known state.
+`$ git reset {file}`This cheat will make our repository return to a previous known state.
 
 `$ git commit` Creates a new commit of the changes that are in the staging area. 
 
-`` Probably, sometimes you will need to undo things or to add something to your staging area and this command would be helpful for some of this cases, will remove the file from the working directory and staging area.
+`$ git rm {file}` Probably, sometimes you will need to undo things or to add something to your staging area and this command would be helpful for some of this cases, will remove the file from the working directory and staging area.
 
 `$ git stash`  I think this cheat was not seen in class, but in my experience as a git user, I think is very useful, it saves the current changes of the working directory into a stash so we can use them later.
 
