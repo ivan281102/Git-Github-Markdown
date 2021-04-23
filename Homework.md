@@ -19,3 +19,11 @@ Here are some commands that we can use to be faster when we are working
 ## Find files, folders and inside files
 
 `find {Route} {Name or extension}`This is kind of difficult to explain so we have this example: find /home/example-username/ -filename_example
+
+## Create and edit files
+
+`nano` There are a lot of ways to create and edit a file but here we have nano because as my way to see, is the easiest, just type nano followed by the name of the file we want to create or edit.
+
+## Get the state of the computer 
+
+`lscpu`At least in Linux, which is the operating system I use, this command is useful to see the state of the computer.
