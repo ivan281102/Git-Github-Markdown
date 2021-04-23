@@ -27,3 +27,8 @@ Here are some commands that we can use to be faster when we are working
 ## Get the state of the computer 
 
 `lscpu`At least in Linux, which is the operating system I use, this command is useful to see the state of the computer.
+
+# The git / github
+
+Here are some of the most important commands we can use in git
+
