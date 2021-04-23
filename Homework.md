@@ -9,3 +9,5 @@ Here are some commands that we can use to be faster when we are working
 `rmdir {Directory Name}` rmdir is the abrevation for remove directory, to use it correctly we only need to type this followed by the directory name.
 
 ## Navigate
+
+`cd` We can use cd followed by the route we want to go to move throghout the directories.
