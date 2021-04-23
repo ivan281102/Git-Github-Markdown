@@ -40,3 +40,4 @@ We need to set up our environment in which we are going to work. For this, git p
 
 `$ git config --global user.email "Your email"` It is like the previous one, just that is our email, not our name (It shows in commits and tags).
 
+## Starting a project from zero 
