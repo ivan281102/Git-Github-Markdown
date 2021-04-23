@@ -87,3 +87,4 @@ To modify our project or work, without affecting in other changes or features gi
 To see, what we are doing in the project, who commited or did changes, git has this command.
 
 `$ git log {-n count}` Lists all the commits specified, for this, just replace n for the limit wanted.
+
