@@ -70,7 +70,7 @@ If we start a project, we need to use some commands.
 
 `$ git stash pop` Applies the stored changes in the stash into the working directory again.
 
-##Branches
+## Branches
 
 To modify our project or work, without affecting in other changes or features git provides us this commands.
 
@@ -82,7 +82,7 @@ To modify our project or work, without affecting in other changes or features gi
 
 `$ git branch -d {name}` When we merge a branch to another, the branch that has been merged, is now "useless", so we can remove thibranch if is already merged in any other.
 
-##Gitflow
+## Gitflow
 
 To see, what we are doing in the project, who commited or did changes, git has this command.
 
