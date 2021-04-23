@@ -50,4 +50,6 @@ We have to start our project, for this, git gives us these tools:
 
 ## Basic workflow commands to stage and commit
 
+If we start a project, we need to use some commands.
+
 
